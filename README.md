@@ -8,6 +8,7 @@
   - [进程间通讯方式以及各个方式的优缺点 ](https://github.com/ADistanceThereIs/MyBlog/issues/4)
   - [Markdown 语法说明 (简体中文版)  ](http://www.appinn.com/markdown/#list)
   - [如何用消息系统避免分布式事务？  ](http://blog.jobbole.com/89140/)
+  - [一个复杂系统的拆分改造实践](http://www.cnblogs.com/LBSer/p/6195309.html)
   
 - 架构
   - [单体架构模式](https://github.com/ADistanceThereIs/MyBlog/issues/2)
