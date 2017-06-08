@@ -25,10 +25,12 @@
   
   - [微服务实战（三）：深入微服务架构的进程间通信](http://dockone.io/article/549)
   
-  - [微服务实战（四）：服务发现的可行方案以及实践案例](http://dockone.io/article/771)
+  - [微服务实践（四）：服务发现的可行方案以及实践案例](http://dockone.io/article/771)
   
   - [微服务实践（五）：微服务的事件驱动数据管理](http://dockone.io/article/936)
   
-  - [微服务实战（六）：选择微服务部署策略](http://dockone.io/article/1066)
+  - [微服务实践（六）：选择微服务部署策略](http://dockone.io/article/1066)
+  
+  - [微服务实践（七）：从单体式架构迁移到微服务架构](http://dockone.io/article/1266)
   
 
