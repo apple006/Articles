@@ -20,6 +20,8 @@
   - [深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）](http://www.cnblogs.com/figure9/archive/2014/10/24/4048421.html)
    
   - [Nginx+Tomcat整合使用](https://github.com/ADistanceThereIs/MyBlog/issues/6)
+  
+  - [Nginx+Tomcat整合体验](https://segmentfault.com/a/1190000007803704)
   
 - 架构
   - [单体架构模式](https://github.com/ADistanceThereIs/MyBlog/issues/2)
