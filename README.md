@@ -15,6 +15,8 @@
   
   - [一个复杂系统的拆分改造实践](http://blog.jobbole.com/109409/)
   
+  - [你真的了解如何将 Nginx 配置为Web服务器吗](https://lufficc.com/blog/configure-nginx-as-a-web-server)
+  
 - 架构
   - [单体架构模式](https://github.com/ADistanceThereIs/MyBlog/issues/2)
   
