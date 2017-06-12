@@ -18,8 +18,8 @@
   - [你真的了解如何将 Nginx 配置为Web服务器吗](https://lufficc.com/blog/configure-nginx-as-a-web-server)
   
   - [深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）](http://www.cnblogs.com/figure9/archive/2014/10/24/4048421.html)
-  
-  - [Nginx+Tomcat整合使用](https://github.com/ADistanceThereIs/MyBlog/issues/6)
+   
+  - [Nginx+Tomcat整合使用](https://github.com/ADistanceThereIs/MyBlog/issues/6)
   
 - 架构
   - [单体架构模式](https://github.com/ADistanceThereIs/MyBlog/issues/2)
