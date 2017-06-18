@@ -22,6 +22,8 @@
   - [Nginx+Tomcat整合使用](https://github.com/ADistanceThereIs/MyBlog/issues/6)
   
   - [Nginx+Tomcat整合体验](https://segmentfault.com/a/1190000007803704)
+  
+  - [Java多线程和内存可见性](https://github.com/ADistanceThereIs/MyBlog/issues/7)
   
 - 架构
   - [单体架构模式](https://github.com/ADistanceThereIs/MyBlog/issues/2)
