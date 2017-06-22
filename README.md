@@ -24,6 +24,8 @@
   - [Nginx+Tomcat整合体验](https://segmentfault.com/a/1190000007803704)
   
   - [Java多线程和内存可见性](https://github.com/ADistanceThereIs/MyBlog/issues/7)
+  
+  - [Vert.x Blueprint 系列教程(一) | 待办事项服务开发教程](http://www.sczyh30.com/posts/Asynchronous/vertx-blueprint-1-todo-backend-tutorial/)
   
 - 架构
   - [单体架构模式](https://github.com/ADistanceThereIs/MyBlog/issues/2)
