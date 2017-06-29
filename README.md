@@ -44,5 +44,7 @@
   - [微服务实践（六）：选择微服务部署策略](http://dockone.io/article/1066)
   
   - [微服务实践（七）：从单体式架构迁移到微服务架构](http://dockone.io/article/1266)
-  
+  
+- 线程
+  - [ Java内置锁synchronized的可重入性](http://blog.csdn.net/aigoogle/article/details/29893667)
 
